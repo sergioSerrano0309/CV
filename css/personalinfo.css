@@ -2,6 +2,7 @@ html
 {
     background-color: #0f81b6;
 }
+
 body
 {
     border: 10px solid #0f81b6;
@@ -10,6 +11,7 @@ body
     height: 100vh;
     position: relative;
 }
+
 .circulo
 {
     text-align: center;
@@ -21,6 +23,7 @@ body
     margin-left: 25%;
     background-color: #222a2b;
 }
+
 .bi-person-circle
 {
     position: absolute;
@@ -29,8 +32,22 @@ body
     color: #0f81b6;
     font-size: 150px;    
 }
+
 .row
 {
     margin: 10px;
     margin-top: 10%;
+}
+
+.tabpanel{
+    margin-top: 10%;
+}
+
+.bi-box-arrow-left
+{
+    color: #0f81b6;
+    position: absolute;
+    top: 1%;
+    left: 4%;
+    font-size: 30px;
 }
