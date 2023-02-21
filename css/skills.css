@@ -1,0 +1,23 @@
+html
+{
+    background-color: #0f81b6;
+}
+
+body
+{
+    border: 10px solid #0f81b6;
+    border-radius:  43px;
+    background-color: #6af5ff;
+    height: 100vh;
+    position: relative;
+    text-align: center;
+}
+
+.bi-box-arrow-left
+{
+    color: #0f81b6;
+    position: absolute;
+    top: 1%;
+    left: 4%;
+    font-size: 30px;
+}
