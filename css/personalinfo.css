@@ -1,0 +1,36 @@
+html
+{
+    background-color: #0f81b6;
+}
+body
+{
+    border: 10px solid #0f81b6;
+    border-radius:  43px;
+    background-color: #6af5ff;
+    height: 100vh;
+    position: relative;
+}
+.circulo
+{
+    text-align: center;
+    border: #0f81b6 solid 5px;
+    margin-top: 20%;
+    border-radius: 100%;
+    width: 55%;
+    height: 25%;
+    margin-left: 25%;
+    background-color: #222a2b;
+}
+.bi-person-circle
+{
+    position: absolute;
+    left: 32%;
+    top: 8%;
+    color: #0f81b6;
+    font-size: 150px;    
+}
+.row
+{
+    margin: 10px;
+    margin-top: 10%;
+}
